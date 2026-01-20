@@ -12,10 +12,10 @@ public class DuplicateElement1ArrayUsingSetInterface {
 
         Set<Integer> uniqueElement = new HashSet<>();
 
-        for(int element :arr ){
+        for(int elements :arr ){
 
-            if(!uniqueElement.add(element)){
-            System.out.println(element+ " ");
+            if(!uniqueElement.add(elements)){
+            System.out.println(elements+ " ");
 
         }
 
