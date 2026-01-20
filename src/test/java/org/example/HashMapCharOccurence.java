@@ -4,7 +4,8 @@ public class HashMapCharOccurence {
 
     public static void main(String[] args){
 
-
+int[] arr = {1,2,3,4,5};
+        int[] result = {6,3,4,7};
 
     System.out.println("Testing")
 
