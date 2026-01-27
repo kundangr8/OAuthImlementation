@@ -1,8 +1,6 @@
 package org.example;
 import io.restassured.path.json.JsonPath;
-import io.restassured.response.Response;
 
-import static groovy.json.JsonOutput.prettyPrint;
 import static io.restassured.RestAssured.*;
 public class OAuth {
 
